@@ -1,0 +1,41 @@
+{
+    "name": "Open Eligibility",
+    "description": "<p>The Open Eligibility Project is a collaborative for a better human service taxonomy. The taxonomy is a simple way to categorize human services and human situations. With these common categories, we, as service providers, navigators, and people in need, can find human services quickly and easily. This is an API setup and operated by API Evangelist to support the evolution of the specification, and use across many different human services API projects.<\/p>",
+    "image": "https:\/\/s3.amazonaws.com\/kinlane-productions\/adopta-agency\/adopta-agency-primary.png",
+    "tags": [
+        "definitions",
+        "have api",
+        "human services"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/open-eligibility\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Open Eligibility Taxonomy API",
+            "description": null,
+            "image": "https:\/\/s3.amazonaws.com\/kinlane-productions\/adopta-agency\/adopta-agency-primary.png",
+            "humanURL": "https:\/\/about.auntbertha.com\/openeligibility",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/open-eligibility-taxonomy-api-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/open-eligibility-taxonomy-api-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "https:\/\/about.auntbertha.com\/openeligibility"
+        }
+    ]
+}
